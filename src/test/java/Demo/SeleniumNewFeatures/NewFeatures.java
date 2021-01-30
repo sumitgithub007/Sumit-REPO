@@ -33,7 +33,8 @@ public class NewFeatures {
 		
 		System.out.println("Height" +logo.getRect().getDimension().getHeight());
     		 System.out.println("Height" +logo.getRect().getDimension().getWidth());
-
+    		 System.out.println("new changes by person  x");
+    			
      
 		
 	/*
