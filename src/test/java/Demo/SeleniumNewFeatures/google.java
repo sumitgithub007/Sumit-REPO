@@ -13,6 +13,7 @@ public class google {
 
 	public static void main(String[] args) {
 
+		System.out.println("google is down");
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\Users\\sumit goyal\\Downloads\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
